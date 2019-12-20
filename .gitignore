@@ -2,3 +2,7 @@
 regressao/plots/
 
 regressao/plotsteste/
+
+*.csv
+
+data/input2kk.mat
