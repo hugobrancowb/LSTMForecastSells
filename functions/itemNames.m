@@ -14,7 +14,7 @@ opts = setvaropts(opts, 2, "EmptyFieldRule", "auto");
 opts.ExtraColumnsRule = "ignore";
 opts.EmptyLineRule = "read";
 % Import the data
-itemstranslated = readtable("C:\Users\Hugo\Documents\MATLAB\vendas1c\CVS\items-translated.csv", opts);
+itemstranslated = readtable("CVS\items-translated.csv", opts);
 clear opts
 
 names = (itemstranslated.item_name_translated(listaID));

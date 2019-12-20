@@ -3,7 +3,7 @@ function [vendas rangeDays ProductIDS] = contarVendasPorProduto(SellOrProfit,Pro
 % ProdOrCat - product/category - produto ou categoria?
 % Accu - 1 é acumulo de valores; 0 nao soma o acumulo.
 
-load('data/input2kk.mat', 'input');
+load('data/input.mat', 'input');
 switch SellOrProfit
     case "sells"
         selection = 1;
