@@ -1,4 +1,6 @@
 # LSTMForecastSells
+Mais informações sobre o projeto encontram-se no [meu portfólio](https://hugobrancowb.github.io/).
+
 ## Introduction
 It was provided by [1C Company](http://www.1c.com/) a time-series dataset consisting of daily sales data for a data science competition hold by [Kaggle](https://www.kaggle.com/).
 You can download the dataset from [this link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
@@ -46,3 +48,6 @@ This script will take a while. It will save all output inside ```regressao/data/
 ```Matlab
 regressaoLSTM
 ```
+
+## Keywords
+Matlab, Inteligência Artificial, Artificial Intelligence, Long Short-Term Memory
